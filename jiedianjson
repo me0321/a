@@ -1,9 +1,9 @@
 http=a1.ap.fastqvpn.com:29980, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=clubhouse
-http=ap1-jp.er3.xyz:29985, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连日本
-http=ap1-us.er3.xyz:29988, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连美国
-http=ap1-sg.er3.xyz:29986, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连新加坡LINODE
-http=ap1-uk.er3.xyz:29987, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连英国
-http=ap1-ge.er3.xyz:29984, username= 407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连德国
-http=ap1-ca.er3.xyz:29983, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连加拿大
-http=ap1-au.er3.xyz:29982, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连澳大利亚
-http=a2.ap.fastqvpn.com:29980, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连香港
+http=ap1-jp.er3.xyz:29985, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=日本
+http=ap1-us.er3.xyz:29988, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=美国
+http=ap1-sg.er3.xyz:29986, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡LINODE
+http=ap1-uk.er3.xyz:29987, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一英国
+http=ap1-ge.er3.xyz:29984, username= 407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=德国
+http=ap1-ca.er3.xyz:29983, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=加拿大
+http=ap1-au.er3.xyz:29982, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=澳大利亚
+http=a2.ap.fastqvpn.com:29980, username=407636383960662016, password=cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
