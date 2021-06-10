@@ -9,8 +9,8 @@ proxies:
     server: ap1-sg.er3.xyz
     port: 29986
     type: http
-    username: "424266815468732416"
-    password: 1726590a-cfd0-4bb8-948a-013b3718d903
+    username: "434267470132412416"
+    password: f783c93b-825a-4bc0-b5f6-979416352ece
     tls: true
   - name: 🇭🇰香港铜锣湾   
     server: a1.er3.xyz
